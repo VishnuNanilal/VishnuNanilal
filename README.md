@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vishnu Nanilal Panicker
-- 👀 I’m interested in Game Engineering
+- 👋 Hi, I’m @Vishnu.N.P
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Programming (C#), Algorithms, and Unity. 
 
 - 📫 How to reach me : email: vishnunlal@gmail.com
