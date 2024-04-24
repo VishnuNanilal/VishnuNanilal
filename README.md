@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu.N.P
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Programming (C#), Algorithms, and Unity. 
+- 👀 I’m interested in Full Stack Development. (HTML, CSS, JS, NodeJS, React, Express, MongoDB)
+- 🌱 DSA, C#(Unity), DSA, and Unity. 
 
 - 📫 How to reach me : email: vishnunlal@gmail.com
                         phone: +91 7306365503
